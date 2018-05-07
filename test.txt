@@ -1,2 +1,2 @@
-Git is a big version control system.
-Git is free software. pig
+GVFit is a big version control system.
+Git is free software big.
